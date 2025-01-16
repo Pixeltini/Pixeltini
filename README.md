@@ -1,4 +1,4 @@
-## Hi there 👋
+## Pixeltini*Studio* 
 
 <!--
 **Pixeltini/Pixeltini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Currently Working on:
+- Iniital development of a social media prototype.
+
+### Projects:
+- KampKode.com - online Python and MicroPython learning for anyone who wants to learn to code. Develop environmetal and community projects with MicroPython, Microcontrollers and environmental sensors.
+- PollVault.com (Retired) - A social voting app enabling people to see and share their election ballot choices for greater civic involvement.
+
